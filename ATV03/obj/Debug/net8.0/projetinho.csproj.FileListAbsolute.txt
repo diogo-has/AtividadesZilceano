@@ -1,0 +1,91 @@
+C:\Users\Aluno\projetinho\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno\projetinho\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno\projetinho\bin\Debug\net8.0\projetinho.staticwebassets.runtime.json
+C:\Users\Aluno\projetinho\bin\Debug\net8.0\projetinho.exe
+C:\Users\Aluno\projetinho\bin\Debug\net8.0\projetinho.deps.json
+C:\Users\Aluno\projetinho\bin\Debug\net8.0\projetinho.runtimeconfig.json
+C:\Users\Aluno\projetinho\bin\Debug\net8.0\projetinho.dll
+C:\Users\Aluno\projetinho\bin\Debug\net8.0\projetinho.pdb
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\projetinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\projetinho.AssemblyInfoInputs.cache
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\projetinho.AssemblyInfo.cs
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\projetinho.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\projetinho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\projetinho.RazorAssemblyInfo.cache
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\projetinho.RazorAssemblyInfo.cs
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\staticwebassets\msbuild.projetinho.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\staticwebassets\msbuild.build.projetinho.props
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.projetinho.props
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.projetinho.props
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\scopedcss\bundle\projetinho.styles.css
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\scopedcss\projectbundle\projetinho.bundle.scp.css
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\projetinho.dll
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\refint\projetinho.dll
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\projetinho.pdb
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\projetinho.genruntimeconfig.cache
+C:\Users\Aluno\projetinho\obj\Debug\net8.0\ref\projetinho.dll
+c:\Users\Diogo H\Documents\projetinho\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\Diogo H\Documents\projetinho\bin\Debug\net8.0\appsettings.json
+c:\Users\Diogo H\Documents\projetinho\bin\Debug\net8.0\projetinho.staticwebassets.runtime.json
+c:\Users\Diogo H\Documents\projetinho\bin\Debug\net8.0\projetinho.exe
+C:\Users\Diogo H\Documents\projetinho\bin\Debug\net8.0\projetinho.deps.json
+C:\Users\Diogo H\Documents\projetinho\bin\Debug\net8.0\projetinho.runtimeconfig.json
+c:\Users\Diogo H\Documents\projetinho\bin\Debug\net8.0\projetinho.dll
+c:\Users\Diogo H\Documents\projetinho\bin\Debug\net8.0\projetinho.pdb
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\projetinho.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\projetinho.AssemblyInfoInputs.cache
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\projetinho.AssemblyInfo.cs
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\projetinho.csproj.CoreCompileInputs.cache
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\projetinho.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\projetinho.RazorAssemblyInfo.cache
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\projetinho.RazorAssemblyInfo.cs
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\staticwebassets\msbuild.projetinho.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\staticwebassets\msbuild.build.projetinho.props
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.projetinho.props
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.projetinho.props
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\scopedcss\bundle\projetinho.styles.css
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\scopedcss\projectbundle\projetinho.bundle.scp.css
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\projetinho.dll
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\refint\projetinho.dll
+c:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\projetinho.pdb
+C:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\projetinho.genruntimeconfig.cache
+C:\Users\Diogo H\Documents\projetinho\obj\Debug\net8.0\ref\projetinho.dll
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\bin\Debug\net8.0\appsettings.json
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\bin\Debug\net8.0\projetinho.staticwebassets.runtime.json
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\bin\Debug\net8.0\projetinho.exe
+C:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\bin\Debug\net8.0\projetinho.deps.json
+C:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\bin\Debug\net8.0\projetinho.runtimeconfig.json
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\bin\Debug\net8.0\projetinho.dll
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\bin\Debug\net8.0\projetinho.pdb
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\projetinho.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\projetinho.AssemblyInfoInputs.cache
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\projetinho.AssemblyInfo.cs
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\projetinho.csproj.CoreCompileInputs.cache
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\projetinho.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\projetinho.RazorAssemblyInfo.cache
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\projetinho.RazorAssemblyInfo.cs
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\projetinho.sourcelink.json
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\staticwebassets\msbuild.projetinho.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\staticwebassets\msbuild.build.projetinho.props
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.projetinho.props
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.projetinho.props
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\scopedcss\bundle\projetinho.styles.css
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\scopedcss\projectbundle\projetinho.bundle.scp.css
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\projetinho.dll
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\refint\projetinho.dll
+c:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\projetinho.pdb
+C:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\projetinho.genruntimeconfig.cache
+C:\Users\Diogo H\Documents\AtividadesZilceano\ATV03\obj\Debug\net8.0\ref\projetinho.dll

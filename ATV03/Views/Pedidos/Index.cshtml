@@ -1,0 +1,48 @@
+@model List<projetinho.Models.Pedido>
+
+<h2>Pedidos</h2>
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Status</th>
+        <th>Data de Entrada</th>
+        <th>Funcionário Responsável</th>
+        <th>Cliente</th>
+        <th>Produtos</th>
+    </tr>
+    @{
+        foreach (Pedido pedido in Model) {
+            <tr>
+                <td>@pedido.Id</td>
+                <td>@pedido.Status</td>
+                <td>@pedido.DataEntrada</td>
+                <td>@pedido.FuncResponsavel</td>
+                <td>
+                    @pedido.Cliente.Nome
+                    <p style="font-size: small; font-style: italic;">
+                        @pedido.Cliente.CPF<br>
+                        @pedido.Cliente.Email<br>
+                        @pedido.Cliente.Telefone
+                    </p>
+                </td>
+                <td>@{
+                    foreach (Produto produto in pedido.Produtos) {
+                        @produto.Nome
+                        <p style="font-size: small; font-style: italic;">
+                            R$ @produto.Valor<br>
+                            @produto.Fornecedora.Nome<br>
+                            <span style="font-size: x-small; font-style: italic; line-height: 12px; display: block;">
+                                @produto.Fornecedora.RegimeFiscal<br>
+                                @produto.Fornecedora.Endereco<br>
+                                @produto.Fornecedora.MargemDesconto%<br>
+                                @produto.Fornecedora.Cnpj
+                            </span>
+                        </p>
+                    }
+                    }
+                </td>
+            </tr>
+        }
+    }
+
+</table>
