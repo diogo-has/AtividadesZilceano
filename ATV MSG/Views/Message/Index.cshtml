@@ -1,0 +1,16 @@
+@model proj.Models.Message
+
+<h2>Enviar Mensagem</h2>
+
+<form asp-action="Index" method="post">
+    <div>
+        <label for="Content">Mensagem:</label>
+        <input type="text" id="Content" name="Content" />
+    </div>
+    <button type="submit">Enviar</button>
+</form>
+
+@if (ViewBag.Message != null) {
+    <h3>Mensagem Recebida</h3>
+    <p>@ViewBag.Message</p>
+}
