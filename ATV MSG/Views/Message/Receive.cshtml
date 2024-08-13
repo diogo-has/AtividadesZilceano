@@ -1,0 +1,22 @@
+@model List<proj.Models.Message>
+
+
+
+<div class="text-center">
+    <h2>Mensagens Recebidas</h2>
+    @if (Model != null && Model.Count > 0)
+    {
+        <ul>
+            @foreach (var msg in Model)
+            {
+                <li style="border: 3px solid black; list-style-type: none; margin: 10px">
+                    <p><strong>Nome: </strong>@msg.Name</p>
+                    <p><strong>Gênero: </strong>@msg.Gender</p>
+                    <p><strong>Email: </strong>@msg.Email</p>
+                    <p><strong>Destinatário: </strong>@msg.Receiver</p>
+                    <p><strong>Mensagem: </strong>@msg.Content</p>
+                </li>
+            }
+        </ul>
+    }
+</div>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\proj\\proj.csproj": {}
+    "C:\\Users\\Aluno\\AtividadesZilceano\\ATV MSG\\proj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\proj\\proj.csproj": {
+    "C:\\Users\\Aluno\\AtividadesZilceano\\ATV MSG\\proj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\proj\\proj.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\AtividadesZilceano\\ATV MSG\\proj.csproj",
         "projectName": "proj",
-        "projectPath": "C:\\Users\\Aluno\\proj\\proj.csproj",
+        "projectPath": "C:\\Users\\Aluno\\AtividadesZilceano\\ATV MSG\\proj.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\proj\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\AtividadesZilceano\\ATV MSG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",

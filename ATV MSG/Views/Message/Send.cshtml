@@ -1,0 +1,34 @@
+@model List<proj.Models.Message>
+
+
+
+<div class="text-center">
+    <h2>Enviar Mensagem</h2>
+    <form asp-action="Send" method="post">
+        <div>
+            <label for="Content">Nome:</label>
+            <input type="text" id="Name" name="Name" />
+        </div>
+        <div>
+            <label for="Content">Gênero:</label>
+            <select name="Gender" id="Gender">
+                <option value="Masculino">Masculino</option>
+                <option value="Feminino">Feminino</option>
+                <option value="Outro">Outro</option>
+            </select>
+        </div>
+        <div>
+            <label for="Content">Email:</label>
+            <input type="text" id="Email" name="Email" />
+        </div>
+        <div>
+            <label for="Content">Destinatário:</label>
+            <input type="text" id="Receiver" name="Receiver" />
+        </div>
+        <div>
+            <label for="Content">Mensagem:</label>
+            <input type="text" id="Content" name="Content" />
+        </div>
+        <button type="submit">Enviar</button>
+    </form>
+</div>
